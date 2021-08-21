@@ -1,0 +1,1 @@
+init.lua 是Hammerspoon啟動時執行內容
